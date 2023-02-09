@@ -1,0 +1,7107 @@
+[
+  {
+    "id" : 8848 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "广州" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "12" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "广州" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "广州" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "广州" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "广州" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "广州" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "广州" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "广州" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "广州" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "广州" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "广州" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "广州" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "广州" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "广州" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "广州" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "广州" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "广州" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "广州" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "广州" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "广州" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "广州" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "广州" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "广州" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "广州" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "广州" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "广州" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "广州" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "广州" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "广州" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "广州" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  }  ,
+  {
+    "id" : 7596 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "北京" , 
+        "confirm" : "102" , 
+        "confirm_add" : "163" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "北京" , 
+        "confirm" : "127" , 
+        "confirm_add" : "161" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "北京" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "1216" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "北京" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "1150" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "北京" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "1050" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "北京" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "5180" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "北京" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "北京" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "2103" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "北京" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "1205" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "北京" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "1120" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "北京" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "1066" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "北京" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "1500" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "北京" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "1250" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "北京" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "1510" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "北京" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "1020" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "北京" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "1205" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "北京" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "2040" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "北京" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "120" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "北京" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "5101" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "北京" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "410" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "北京" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "256" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "北京" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "510" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "北京" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1020" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "北京" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "840" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "北京" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "151" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "北京" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "1020" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "北京" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "北京" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "北京" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "北京" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1354 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "重庆" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1510" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "重庆" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "502" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "重庆" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "260" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "重庆" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "655" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "重庆" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "330" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "重庆" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "650" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "重庆" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "重庆" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "1230" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "重庆" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "1239" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "重庆" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "115" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "重庆" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "617" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "重庆" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "226" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "重庆" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "161" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "重庆" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "1469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "重庆" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "1529" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "重庆" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "1616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "重庆" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "2949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "重庆" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "1494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "重庆" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "1941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "重庆" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "1441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "重庆" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "132" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "重庆" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "161" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "重庆" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1563" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "重庆" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "147" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "重庆" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "重庆" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "重庆" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "重庆" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "260" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "重庆" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "1165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "重庆" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "3100" ,
+        "dead" : 0
+      }
+    ]
+  }  , 
+  {
+    "id" : 1666 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "南昌" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "105" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "南昌" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "123" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "南昌" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "214" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "南昌" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "115" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "南昌" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "415" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "南昌" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "416" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "南昌" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "125" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "南昌" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "137" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "南昌" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "148" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "南昌" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "651" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "南昌" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "612" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "南昌" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "416" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "南昌" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "261" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "南昌" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "369" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "南昌" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "189" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "南昌" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "南昌" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "151" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "南昌" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "44" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "南昌" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "1941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "南昌" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "南昌" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "303" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "南昌" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "南昌" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "南昌" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "南昌" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "南昌" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "281" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "南昌" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "南昌" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "南昌" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "南昌" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "210" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1254 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "厦门" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "200" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "厦门" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "213" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "厦门" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "114" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "厦门" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "125" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "厦门" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "153" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "厦门" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "162" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "厦门" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "255" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "厦门" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "367" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "厦门" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "148" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "厦门" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "651" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "厦门" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "361" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "厦门" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "210" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "厦门" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "厦门" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "461" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "厦门" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "129" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "厦门" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "66" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "厦门" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "99" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "厦门" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "1049" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "厦门" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "厦门" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "厦门" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "102" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "厦门" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "161" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "厦门" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "150" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "厦门" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "154" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "厦门" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "116" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "厦门" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "厦门" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "厦门" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "263" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "厦门" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "215" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "厦门" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "210" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1615 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "长沙" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "260" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "长沙" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "135" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "长沙" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "150" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "长沙" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "1508" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "长沙" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "长沙" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "1216" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "长沙" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "525" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "长沙" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "317" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "长沙" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "148" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "长沙" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "1551" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "长沙" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "1161" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "长沙" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "1216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "长沙" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "591" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "长沙" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "长沙" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "长沙" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "长沙" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "长沙" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "长沙" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "981" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "长沙" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "长沙" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "长沙" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "长沙" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1569" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "长沙" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1546" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "长沙" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "长沙" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "1810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "长沙" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "长沙" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "长沙" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "1165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "长沙" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1344 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "上海" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "150" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "上海" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "1058" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "上海" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "1254" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "上海" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "1505" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "上海" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "1515" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "上海" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "1516" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "上海" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "5125" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "上海" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "3517" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "上海" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "4418" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "上海" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "4151" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "上海" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "6151" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "上海" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "2156" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "上海" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "5610" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "上海" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "4619" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "上海" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "1559" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "上海" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "1616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "上海" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "1949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "上海" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "1494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "上海" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "5941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "上海" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "4451" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "上海" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "上海" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "上海" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "上海" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "上海" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "上海" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "上海" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "上海" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "上海" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2155" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "上海" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1565 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "成都" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "610" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "成都" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "153" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "成都" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "142" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "成都" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "成都" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "1625" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "成都" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "成都" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "962" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "成都" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "637" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "成都" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "548" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "成都" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "成都" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "620" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "成都" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "3216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "成都" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "5561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "成都" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "成都" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "1559" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "成都" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "成都" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "成都" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "成都" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "成都" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "成都" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "4032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "成都" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "161" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "成都" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "成都" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1511" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "成都" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "成都" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2110" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "成都" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "成都" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "成都" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "成都" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2140" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1714 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "昆明" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "63" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "昆明" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "昆明" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "昆明" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "昆明" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "昆明" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "昆明" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "昆明" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "昆明" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "昆明" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "昆明" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "昆明" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "昆明" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "昆明" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "昆明" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "昆明" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "昆明" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "昆明" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "昆明" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "昆明" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "昆明" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "昆明" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "昆明" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "昆明" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "昆明" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "昆明" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "昆明" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "昆明" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "昆明" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "昆明" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "200" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 3101 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "杭州" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1000" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "杭州" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "杭州" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "140" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "杭州" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "杭州" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "杭州" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "杭州" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "杭州" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "杭州" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "杭州" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "杭州" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "杭州" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "杭州" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "杭州" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "杭州" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "杭州" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "杭州" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "杭州" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "杭州" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "杭州" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "杭州" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "杭州" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "杭州" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "杭州" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "杭州" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "杭州" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "杭州" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "杭州" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "杭州" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "杭州" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1215 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "天津" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "100" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "天津" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "天津" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "天津" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "天津" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "155" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "天津" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "天津" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "天津" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "天津" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "天津" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "天津" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "天津" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "天津" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "天津" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "天津" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "天津" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "天津" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "天津" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "天津" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "天津" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "天津" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "天津" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "天津" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "天津" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "天津" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "天津" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "天津" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "天津" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "天津" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "天津" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 5407 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "郑州" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "260" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "郑州" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "郑州" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "郑州" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "125" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "郑州" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "郑州" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "146" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "郑州" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "郑州" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "郑州" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "郑州" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "郑州" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "郑州" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "郑州" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "郑州" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "郑州" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "郑州" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "郑州" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "郑州" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "郑州" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "郑州" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "郑州" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "郑州" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "郑州" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "郑州" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "郑州" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "郑州" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "郑州" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "郑州" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "郑州" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "郑州" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1247 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "烟台" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "120" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "烟台" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "153" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "烟台" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "烟台" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "烟台" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "烟台" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "烟台" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "烟台" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "烟台" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "488" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "烟台" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "烟台" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "烟台" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "烟台" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "烟台" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "烟台" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "烟台" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "烟台" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "烟台" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "烟台" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "烟台" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "烟台" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "烟台" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "烟台" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "烟台" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "烟台" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "烟台" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "烟台" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "烟台" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "烟台" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "烟台" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 4571 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "西安" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "20" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "西安" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "西安" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "124" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "西安" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "西安" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "西安" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "416" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "西安" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "西安" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "西安" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "西安" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "西安" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "西安" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "296" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "西安" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "西安" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "西安" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "西安" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "西安" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "西安" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "西安" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "西安" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "西安" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "西安" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "西安" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "西安" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "西安" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "西安" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "西安" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "西安" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "西安" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "西安" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 2104 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1200" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "146" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "198" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "哈尔滨" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 7106 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "太原" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1200" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "太原" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "太原" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "142" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "太原" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "太原" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "太原" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "太原" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "525" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "太原" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "太原" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "太原" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "太原" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "太原" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "太原" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "太原" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "太原" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "太原" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "太原" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "太原" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "太原" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "太原" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "太原" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "太原" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "太原" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "太原" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "太原" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "太原" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "太原" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "太原" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "太原" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "太原" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 6396 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "石家庄" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1400" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "石家庄" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "石家庄" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "石家庄" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "石家庄" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "石家庄" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "1600" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "石家庄" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "石家庄" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "石家庄" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "石家庄" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "石家庄" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "石家庄" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "石家庄" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "石家庄" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "石家庄" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "石家庄" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "石家庄" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "石家庄" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "石家庄" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "石家庄" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "石家庄" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "石家庄" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "石家庄" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "石家庄" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "石家庄" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "石家庄" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "石家庄" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "石家庄" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "石家庄" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "石家庄" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1121 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "长春" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1209" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "长春" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "长春" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "长春" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "长春" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "长春" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "长春" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "605" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "长春" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "长春" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "长春" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "长春" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "长春" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "长春" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "长春" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "长春" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "长春" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "长春" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "长春" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "长春" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "长春" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "长春" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "长春" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "长春" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "长春" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "长春" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "长春" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "长春" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "长春" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "长春" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "长春" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 2103 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "南京" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1400" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "南京" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "南京" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "南京" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "南京" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "南京" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "2116" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "南京" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "南京" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "51" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "南京" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "南京" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "南京" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "南京" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "南京" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "南京" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "南京" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "南京" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "南京" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "南京" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "南京" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "南京" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "南京" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "南京" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "南京" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "南京" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "南京" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "南京" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "南京" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "南京" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "南京" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "南京" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 3201 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "三亚" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "40" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "三亚" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "三亚" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "三亚" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "三亚" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "848" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "三亚" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "三亚" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "三亚" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "484" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "三亚" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "三亚" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "三亚" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "490" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "三亚" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "三亚" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "三亚" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "三亚" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "三亚" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "三亚" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "三亚" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "三亚" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "三亚" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "三亚" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "三亚" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "三亚" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "三亚" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "三亚" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "三亚" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "三亚" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "三亚" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "三亚" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "三亚" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1454 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "北海" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "200" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "北海" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "北海" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "北海" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "155" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "北海" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "北海" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "北海" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "525" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "北海" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "北海" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "北海" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "北海" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "北海" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "北海" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "北海" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "北海" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "北海" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "北海" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "北海" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "北海" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "北海" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "北海" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "北海" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "北海" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "北海" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "北海" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "北海" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "北海" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "北海" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "北海" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "北海" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 9810 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "贵阳" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "320" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "贵阳" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "贵阳" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "贵阳" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "贵阳" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "贵阳" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "贵阳" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "525" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "贵阳" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "贵阳" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "贵阳" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "贵阳" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "贵阳" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "贵阳" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "贵阳" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "贵阳" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "贵阳" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "贵阳" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "贵阳" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "贵阳" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "贵阳" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "贵阳" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "贵阳" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "贵阳" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "贵阳" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "贵阳" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "贵阳" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "贵阳" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "贵阳" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "贵阳" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "贵阳" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 8610 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "沈阳" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1200" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "沈阳" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "沈阳" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "沈阳" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "115" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "沈阳" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "沈阳" , 
+        "confirm" : "427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "沈阳" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "沈阳" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "沈阳" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "沈阳" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "沈阳" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "沈阳" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "沈阳" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "沈阳" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "沈阳" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "沈阳" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "沈阳" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "沈阳" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "沈阳" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "沈阳" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "沈阳" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "沈阳" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "沈阳" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "沈阳" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "沈阳" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "沈阳" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "沈阳" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "沈阳" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "沈阳" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "沈阳" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 7101 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "黄石" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1240" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "黄石" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "黄石" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "黄石" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "黄石" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "黄石" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "黄石" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "黄石" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "黄石" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "448" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "黄石" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "黄石" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "黄石" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "黄石" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "黄石" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "黄石" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "黄石" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "黄石" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "黄石" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "黄石" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "黄石" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "黄石" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "黄石" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "黄石" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "黄石" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "黄石" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "黄石" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "黄石" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "黄石" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "黄石" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "黄石" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1105 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "西宁" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "1280" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "西宁" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "西宁" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "西宁" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "西宁" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "西宁" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "416" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "西宁" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "西宁" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "西宁" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "西宁" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "西宁" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "西宁" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "西宁" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "西宁" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "西宁" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "西宁" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "西宁" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "西宁" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "西宁" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "西宁" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "西宁" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "西宁" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "西宁" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "西宁" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "西宁" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "西宁" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "西宁" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "西宁" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "西宁" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "西宁" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 8781 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "244" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "245" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "2416" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "乌鲁木齐" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 8510 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "兰州" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "45" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "兰州" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "兰州" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "兰州" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "兰州" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "兰州" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "兰州" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "兰州" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "兰州" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "458" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "兰州" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "551" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "兰州" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "兰州" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "兰州" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "兰州" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "兰州" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "兰州" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "兰州" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "兰州" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "兰州" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "兰州" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "兰州" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "兰州" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "兰州" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "兰州" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "兰州" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "兰州" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "兰州" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "兰州" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "兰州" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "兰州" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 7480 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "合肥" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "12" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "合肥" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "合肥" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "合肥" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "合肥" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "15" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "合肥" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "16" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "合肥" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "合肥" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "437" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "合肥" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "合肥" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "751" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "合肥" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "合肥" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "合肥" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "合肥" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "合肥" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "合肥" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "合肥" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "合肥" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "合肥" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "合肥" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "合肥" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "合肥" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "合肥" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "合肥" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "合肥" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "合肥" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "合肥" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "合肥" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "合肥" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "合肥" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  } , 
+  {
+    "id" : 1741 , 
+    "cityList" : [
+      {
+        "y" : "2022" , 
+        "data" : "10.21" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1333" , 
+        "confirm_add" : "10" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.22" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1351" , 
+        "confirm_add" : "13" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.23" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1367" , 
+        "confirm_add" : "14" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.24" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1389" , 
+        "confirm_add" : "5" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.25" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1416" , 
+        "confirm_add" : "5" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.26" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1427" , 
+        "confirm_add" : "6" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.27" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1446" , 
+        "confirm_add" : "25" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.28" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1500" , 
+        "confirm_add" : "37" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.29" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1566" ,
+        "confirm_add" : "48" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.30" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1798" ,
+        "confirm_add" : "51" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "10.31" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "1988" , 
+        "confirm_add" : "61" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.01" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "2073" , 
+        "confirm_add" : "216" ,
+        "dead" : 0
+      } ,
+      {
+        "y" : "2022" , 
+        "data" : "11.02" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "2516" ,
+        "confirm_add" : "561" , 
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.03" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "2305" , 
+        "confirm_add" : "469" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.04" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "2473" , 
+        "confirm_add" : "159" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.05" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "2656" , 
+        "confirm_add" : "616" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.06" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "2814" , 
+        "confirm_add" : "949" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.07" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "3046" , 
+        "confirm_add" : "494" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.08" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "3524" , 
+        "confirm_add" : "941" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.09" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "3947" , 
+        "confirm_add" : "441" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.10" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "4413" , 
+        "confirm_add" : "1032" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.11" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "5107" , 
+        "confirm_add" : "1611" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.12" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "5769" , 
+        "confirm_add" : "1560" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.13" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "6425" , 
+        "confirm_add" : "1541" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.14" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "6977" , 
+        "confirm_add" : "1716" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.15" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "7135" , 
+        "confirm_add" : "2810" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.16" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "8324" , 
+        "confirm_add" : "2160" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.17" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "9565" , 
+        "confirm_add" : "2630" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.18" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "10548" , 
+        "confirm_add" : "2165" ,
+        "dead" : 0
+      } , 
+      {
+        "y" : "2022" , 
+        "data" : "11.19" , 
+        "city" : "伊利哈萨克自治州" , 
+        "confirm" : "11598" , 
+        "confirm_add" : "2100" ,
+        "dead" : 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,291 @@
+
+{
+  "cityList" : [
+    {
+      "id" : 8848 ,
+      "city" : "广州" , 
+      "province" : "广东" , 
+      "confirm" : 1044 , 
+      "local_wzz_add" : 1468 , 
+      "highRiskAreaNum" : 95 ,
+      "time" : "2022-12-14 10:38" , 
+      "flag" : true
+    } , 
+    {
+      "id" : 7596 ,
+      "city" : "北京" , 
+      "confirm" : 476 , 
+      "local_wzz_add" : 609 , 
+      "highRiskAreaNum" : 2 ,
+      "time" : "2022-10-14 11:00" , 
+      "flag" : false
+    } , 
+    {
+      "id" : 1354 ,
+      "city" : "重庆" , 
+      "confirm" : 179 , 
+      "local_wzz_add" : 1744 , 
+      "highRiskAreaNum" : 10 ,
+      "time" : "2022-10-14 11:38" , 
+      "flag" : false
+    } , 
+    {
+      "id" : 1666 ,
+      "city" : "南昌" , 
+      "province" : "江西" , 
+      "confirm" : 137 , 
+      "local_wzz_add" : 3 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10-14 13:38" , 
+      "flag" : false
+    } , 
+    {
+      "id" : 1254 ,
+      "city" : "厦门" , 
+      "province" : "福建" , 
+      "confirm" : 125 , 
+      "local_wzz_add" : 76 , 
+      "highRiskAreaNum" : 3 ,
+      "time" : "2022-10-14 9:38" , 
+      "flag" : false
+    } , 
+    {
+      "id" : 1615,
+      "city" : "长沙" , 
+      "province" : "湖南" , 
+      "confirm" : 115 , 
+      "local_wzz_add" : 9 , 
+      "highRiskAreaNum" : 149 ,
+      "time" : "2022-10-14 10:38" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1344 ,
+      "city" : "上海" , 
+      "confirm" : 106 , 
+      "local_wzz_add" : 120 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-12-14 14:38" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1565 ,
+      "city" : "成都" , 
+      "province" : "四川" , 
+      "confirm" : 93 , 
+      "local_wzz_add" : 53 , 
+      "highRiskAreaNum" : 31 ,
+      "time" : "2022-10 -14 14:00" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1714 ,
+      "city" : "昆明" , 
+      "province" : "云南" , 
+      "confirm" : 85 , 
+      "local_wzz_add" : 82 , 
+      "highRiskAreaNum" : 47 ,
+      "time" : "2022-10 -14 11:03" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 3101 ,
+      "city" : "杭州" , 
+      "province" : "浙江" , 
+      "confirm" : 47 , 
+      "local_wzz_add" : 68 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 11:03" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1215,
+      "city" : "天津" , 
+      "confirm" : 47 , 
+      "local_wzz_add" : 253 , 
+      "highRiskAreaNum" : 25 ,
+      "time" : "2022-10 -14 11:03" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 5407 ,
+      "city" : "郑州" , 
+      "province" : "河南" , 
+      "confirm" : 45 , 
+      "local_wzz_add" : 75 , 
+      "highRiskAreaNum" : 17 ,
+      "time" : "2022-10 -14 13:03" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1247 ,
+      "city" : "烟台" , 
+      "province" : "山东" , 
+      "confirm" : 32 , 
+      "local_wzz_add" : 242 , 
+      "highRiskAreaNum" : 130 ,
+      "time" : "2022-10 -14 15:08" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 4571 ,
+      "city" : "西安" , 
+      "province" : "陕西" , 
+      "confirm" : 26 , 
+      "local_wzz_add" : 139 , 
+      "highRiskAreaNum" : 102 ,
+      "time" : "2022-10 -14 15:28" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 2104 ,
+      "city" : "哈尔滨" , 
+      "province" : "黑龙江" , 
+      "confirm" : 17 , 
+      "local_wzz_add" : 286 , 
+      "highRiskAreaNum" : 112 ,
+      "time" : "2022-10 -14 16:28" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 7106 ,
+      "city" : "太原" , 
+      "province" : "山西" , 
+      "confirm" : 13 , 
+      "local_wzz_add" : 292 , 
+      "highRiskAreaNum" : 156 ,
+      "time" : "2022-10 -14 16:08" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 6396 ,
+      "city" : "石家庄" , 
+      "province" : "河北" , 
+      "confirm" : 12 , 
+      "local_wzz_add" : 125 , 
+      "highRiskAreaNum" : 57 ,
+      "time" : "2022-10 -14 16:38" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1121 ,
+      "city" : "长春" , 
+      "province" : "吉林" , 
+      "confirm" : 5 , 
+      "local_wzz_add" : 68 , 
+      "highRiskAreaNum" : 2 ,
+      "time" : "2022-10 -14 17:38" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 2103 ,
+      "city" : "南京" , 
+      "province" : "江苏" , 
+      "confirm" : 4 , 
+      "local_wzz_add" : 99 , 
+      "highRiskAreaNum" : 10 ,
+      "time" : "2022-10 -14 17:03" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 3201 , 
+      "city" : "三亚" , 
+      "province" : "海南" , 
+      "confirm" : 4 , 
+      "local_wzz_add" : 117 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 16:33" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1454 ,
+      "city" : "北海" , 
+      "province" : "广西" , 
+      "confirm" : 3 , 
+      "local_wzz_add" : 37 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 10:33" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 9810 ,
+      "city" : "贵阳" , 
+      "province" : "贵州" , 
+      "confirm" : 1 , 
+      "local_wzz_add" : 3 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 10:38" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 8610 ,
+      "city" : "沈阳" , 
+      "province" : "辽宁" , 
+      "confirm" : 67 , 
+      "local_wzz_add" : 43 , 
+      "highRiskAreaNum" : 8 ,
+      "time" : "2022-10 -14 12:38" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 7101 ,
+      "city" : "黄石" , 
+      "province" : "湖北" , 
+      "confirm" : 4 , 
+      "local_wzz_add" : 154 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 10 :41" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 1105 ,
+      "city" : "西宁" , 
+      "province" : "青海" , 
+      "confirm" : 3 , 
+      "local_wzz_add" : 242 , 
+      "highRiskAreaNum" : 178 ,
+      "time" : "2022-10 -14 10 :45" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 8781 ,
+      "city" : "乌鲁木齐" , 
+      "province" : "新疆" , 
+      "confirm" : 3 , 
+      "local_wzz_add" : 3 , 
+      "highRiskAreaNum" : 1073 ,
+      "time" : "2022-10 -14 10 :45" , 
+      "flag" : false
+    } , 
+    {
+      "id" : 8510 ,
+      "city" : "兰州" , 
+      "province" : "甘肃" , 
+      "confirm" : 54 , 
+      "local_wzz_add" : 31 , 
+      "highRiskAreaNum" : 6 ,
+      "time" : "2022-10 -14 10 :15" , 
+      "flag" : false
+    } ,
+    {
+      "id" : 7480 ,
+      "city" : "合肥" , 
+      "province" : "安徽" , 
+      "confirm" : 0 , 
+      "local_wzz_add" : 16 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 12:25" , 
+      "flag" : false
+    } , 
+    {
+      "id" : 1741 ,
+      "city" : "伊利哈萨克自治州" , 
+      "province" : "新疆" , 
+      "confirm" : 0 , 
+      "local_wzz_add" : 8 , 
+      "highRiskAreaNum" : 0 ,
+      "time" : "2022-10 -14 11:25" , 
+      "flag" : false
+    }  
+  ]
+}

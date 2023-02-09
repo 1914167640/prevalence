@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+ul {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+html {
+  /* 因为750px == 100vm , 所以1px == 0.133333vm , 所以100px == 13.3333vm */
+  font-size: 13.333333vw;
+}
+ body {
+  font-size: 14px;
+} 
+
+/* 大于750px */
+@media screen and (min-width:750px) {
+  html {
+    font-size: 100px;
+  }
+}
